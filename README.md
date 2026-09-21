@@ -10,12 +10,10 @@ I'm learning web development and building projects with HTML, CSS and JavaScript
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Projects
-- **[movie-explorer](https://github.com/Habib-Brainbox/movie-explorer)**: search and explore movies
-- **[js-foundation-projects](https://github.com/Habib-Brainbox/js-foundation-projects)**: JavaScript practice projects
 
 ## 🎯 Currently
 - Learning JavaScript and building real projects
+- Learning Full-Stack Development
 - Interested in AI, software engineering and research
 
 ## 📫 Connect
