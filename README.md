@@ -1,4 +1,4 @@
-# Hi, I'm Habibur 👋
+# Hi, I'm Habib 👋
 
 Aspiring Computer Science student from Dhaka, Bangladesh.
 I'm learning web development and building projects with HTML, CSS and JavaScript.
